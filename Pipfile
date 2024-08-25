@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "*"
+langchain = "*"
+langchain-openai = "*"
+langgraph = "*"
+grandalf = "*"
+langchain-community = "*"
+langchainhub = "*"
+beautifulsoup4 = "*"
+tavily-python = "*"
+langchain-chroma = "*"
+pytest = "*"
+tiktoken = "*"
+chromadb = "*"
+pysqlite3-binary = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
