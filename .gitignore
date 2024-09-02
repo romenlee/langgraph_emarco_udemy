@@ -18,3 +18,4 @@ venv.bak/
 checkpoints.sqlite
 RAG/graph/.chroma/
 RAG/.chroma/
+Pipfile.lock
